@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Bigelow+Rules&family=Righteous&display=swap');
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
+
 .App {
   text-align: center;
 }
